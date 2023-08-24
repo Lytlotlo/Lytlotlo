@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Letlotlo</h1>
-<h3 align="center">A passionate entry-level software Engineer</h3>
+<h3 align="center">An Aspring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lytlotlo&label=Profile%20views&color=0e75b6&style=flat" alt="lytlotlo" /> </p>
 
