@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Front-end projects.**
 
 - 🌱 I’m currently learning **learning about the Amazon cloud platform.**
-
+  
+- 👩🏾‍💻 Check my portfolio **https://www.hyperiondev.com/portfolio/78216/**
+  
 - 👯 I’m looking to collaborate on **anything related to software development, let's connect :)**
 
 - 📫 How to reach me **mokuoaletlotlo@gmail.com**
