@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Open Source projects.**
 
-- 🌱 I’m currently learning **learning about the Amazon cloud platform.**
+- 🌱 I’m currently interested in **Blockchain and AI**
   
 - 👩🏾‍💻 Check my portfolio **https://www.hyperiondev.com/portfolio/78216/**
   
