@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi, I'm Letlotlo</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | BSc Computer Science | AWS Machine Learning and Artificial Intelligence Scholarship recipient 2023</h3>
+<h3 align="center">AI Safety & Technical Alignment Enthusiast | BSc Computer Science Machine Learning</h3>
 
 
-- 🌱 I’m currently interested in **Machine Learning and AI**
+- 🌱 I’m currently interested in **Machine Learning and AI focused on AI Safety**
   
-- 👩🏾‍💻 Check my portfolio **https://www.hyperiondev.com/portfolio/78216/**
-  
-- 👯 I’m looking to collaborate on **anything related to software development, let's connect :)**
+- 👯 I’m looking to collaborate on **software development and early-stage AI projects**
 
 - 📫 How to reach me **mokuoaletlotlo@gmail.com**
   
