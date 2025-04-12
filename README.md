@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently interested in **Machine Learning and AI focused on AI Safety, currently working on AI Safety Control**
   
-- 👯 I’m looking to collaborate on **AI Safety Projects**
+- 😄 I’m looking to collaborate on **AI Safety Projects**
 
 - 📫 How to reach me **mokuoaletlotlo@gmail.com**
   
