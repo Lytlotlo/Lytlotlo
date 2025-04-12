@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi, I'm Letlotlo</h1>
-<h3 align="center">AI Safety & Technical Alignment Enthusiast | BSc Computer Science Machine Learning</h3>
+<h3 align="center">AI Safety & Technical Alignment Enthusiast | BSc (Hons)Computer Science Machine Learning</h3>
 
 
 - 🌱 I’m currently interested in **Machine Learning and AI focused on AI Safety, currently working on AI Safety Control**
