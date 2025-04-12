@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h3 align="center">AI Safety & Technical Alignment Enthusiast | BSc Computer Science Machine Learning</h3>
 
 
-- 🌱 I’m currently interested in **Machine Learning and AI focused on AI Safety**
+- 🌱 I’m currently interested in **Machine Learning and AI focused on AI Safety, currently working on AI Safety Control**
   
-- 👯 I’m looking to collaborate on **software development and early-stage AI projects**
+- 👯 I’m looking to collaborate on **AI Safety Projects**
 
 - 📫 How to reach me **mokuoaletlotlo@gmail.com**
   
