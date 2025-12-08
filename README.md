@@ -10,7 +10,7 @@
 
 <p align="center">
   Connect with me: 
-  <a href="www.linkedin.com/in/mokuoaletlotlo" target="blank">
+  <a href="https://www.linkedin.com/in/mokuoaletlotlo/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="letlotlo mokuoa" height="20" width="25" style="vertical-align:middle; margin-left:5px;" />
   </a>
 </p>
